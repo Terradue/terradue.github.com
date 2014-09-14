@@ -82,9 +82,10 @@ p.narrow {
   width: 200px;
   height: 64px;
   margin: 10px 0 0 10px;
+  display:block;
   background: url("logo.png");
   background-repeat: no-repeat;
-  text-indent: -99999px;
+  text-indent: 100%;
   overflow: hidden;
   white-space: nowrap;
 }
