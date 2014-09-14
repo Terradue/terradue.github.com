@@ -67,13 +67,15 @@ p.narrow {
 }
 
 #main h1, #main p {
+  margin-top: 5px;
+  margin-bottom: 5px;
   margin-left: 15px;
   margin-right: 15px;
 }
 
 #main p {
   font-size: 11px;
-  line-height: 2;
+  line-height: 1.3;
 }
 
 #logo {
@@ -219,7 +221,7 @@ li.repo h3 {
 }
 
 #description {
-  font-size: 16px;
+
   color: #0084b4;
 }
 
