@@ -30,6 +30,11 @@ a:hover {
   text-decoration: underline;
 }
 
+ul#legend li {
+  list-style-type: square;
+  font-size: 11px;
+}
+
 #wrapper {
   position: relative;
   width: 960px;
