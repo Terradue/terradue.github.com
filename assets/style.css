@@ -207,6 +207,10 @@ li.repo h3 {
   border-right-color: #6aad2d;
 }
 
+li.legend {
+  font-size: 11px;
+}
+
 #legend-catchall {
   color: #0080b0;  
 }
