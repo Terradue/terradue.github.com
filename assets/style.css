@@ -21,6 +21,10 @@ h2 {
   color: #0084b4;
 }
 
+li {
+  font-size: 10px;
+}
+
 a:link, a:visited {
   color: #0084b4;
   text-decoration: none;
@@ -205,10 +209,6 @@ li.repo h3 {
 
 .repo.python:after {
   border-right-color: #6aad2d;
-}
-
-li.legend {
-  font-size: 11px;
 }
 
 #legend-catchall {
