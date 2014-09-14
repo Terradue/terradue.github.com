@@ -214,6 +214,11 @@ li.repo h3 {
   border-right-color: #6aad2d;
 }
 
+#description {
+  line-height: 130%;
+  margin-top: 10px;
+}
+
 #legend-catchall {
   color: #0080b0;  
 }
