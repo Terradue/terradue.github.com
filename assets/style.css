@@ -215,8 +215,9 @@ li.repo h3 {
 }
 
 #description {
-  line-height: 90%;
-  padding-top: 10px;
+  font-size: 12px;
+  color: #0084b4;
+  padding-top: 15px;
 }
 
 #legend-catchall {
