@@ -197,7 +197,6 @@ li.repo h3 {
 
 .repo.ruby:after {
   border-right-color: #cc1100;
-  color: #cc1100;
 }
 
 .repo.java:after {
@@ -206,6 +205,22 @@ li.repo h3 {
 
 .repo.python:after {
   border-right-color: #6aad2d;
+}
+
+#legend-javascript {
+  color: #333;  
+}
+
+#legend-ruby {
+  color: #cc1100;
+}
+
+#legend-java {
+  color: #cc8300;
+}
+
+#legend-python {
+  color: #6aad2d;
 }
 
 @keyframes small-swing { 0% { margin-top: 0px } 50% { margin-top: -10px } 100% { margin-top: 0px } }
