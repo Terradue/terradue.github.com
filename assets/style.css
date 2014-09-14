@@ -197,6 +197,7 @@ li.repo h3 {
 
 .repo.ruby:after {
   border-right-color: #cc1100;
+  color: #cc1100;
 }
 
 .repo.java:after {
