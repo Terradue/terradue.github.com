@@ -85,6 +85,8 @@ p.narrow {
   background: url("logo.png");
   background-repeat: no-repeat;
   text-indent: -99999px;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 #logo h1 {
