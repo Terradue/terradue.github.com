@@ -37,6 +37,10 @@ ul#legend li {
   font-size: 11px;
 }
 
+p.narrow {
+    line-height: 90%;
+}
+
 #wrapper {
   position: relative;
   width: 960px;
