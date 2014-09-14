@@ -187,24 +187,32 @@ li.repo h3 {
   pointer-events: none;
 }
 
-.repo.javascript:after {
-  border-right-color: #333;
-}
-
 .repo.scala:after {
   border-right-color: #7ac9de;
-}
-
-.repo.ruby:after {
-  border-right-color: #cc1100;
 }
 
 .repo.java:after {
   border-right-color: #cc8300;
 }
 
+.repo.javascript:after {
+  border-right-color: #333;
+}
+
+.repo.ruby:after {
+  border-right-color: #cc1100;
+}
+
 .repo.python:after {
   border-right-color: #6aad2d;
+}
+
+#legend-catchall {
+  color: #7ac9de;  
+}
+
+#legend-java {
+  color: #cc8300;
 }
 
 #legend-javascript {
@@ -213,10 +221,6 @@ li.repo h3 {
 
 #legend-ruby {
   color: #cc1100;
-}
-
-#legend-java {
-  color: #cc8300;
 }
 
 #legend-python {
